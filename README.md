@@ -1,4 +1,4 @@
-# requests-
+# requests_classifyImg
 requests爬虫图片自动创建文件夹分类爬取图片
 ## requests爬虫
 
@@ -73,8 +73,8 @@ for i in list_img_rul_name:
 
 
 
-![](C:\Users\88487\Desktop\requests图片\1.png)
+![](https://github.com/Fdaxiong/requests_classifyImg/blob/master/img/1.png)
 
-![1574048880360](C:\Users\88487\AppData\Roaming\Typora\typora-user-images\1574048880360.png)
+![1574048880360](https://github.com/Fdaxiong/requests_classifyImg/blob/master/img/2.png)
 
-![1574048901544](C:\Users\88487\AppData\Roaming\Typora\typora-user-images\1574048901544.png)
+![1574048901544](https://github.com/Fdaxiong/requests_classifyImg/blob/master/img/3.png)
